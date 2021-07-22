@@ -9,6 +9,8 @@ export const CallToAction = styled.button`
   border: none;
   padding: 20px 40px;
   border-radius: 10px;
+  display: block;
+  margin: 0 auto;
 
   &:hover {
     cursor: pointer;

@@ -1,7 +1,5 @@
-import styled from "styled-components";
-import { Title } from "../components/commons/title";
-import { IntroductionWrapper } from "../components/Introduction";
-import { LastProjectsWrapper } from "../components/LastProjects";
+import { IntroductionWrapper } from "../components/Home/Introduction";
+import { LastProjectsWrapper } from "../components/Home/LastProjects";
 
 export default function Home() {
   return (

@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import MenuWrapper from "../Menu";
-import { ToggleTheme } from "./ToggleTheme";
+import { ToggleTheme } from "./styles/ToggleTheme";
 
 const Header = styled.header`
   max-width: 1240px;

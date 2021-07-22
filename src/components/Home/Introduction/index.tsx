@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Title } from "../commons/title";
+import { Title } from "../../commons/title";
 
 const Introduction = styled.section`
   max-width: 1240px;
