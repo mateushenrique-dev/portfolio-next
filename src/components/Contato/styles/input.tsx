@@ -9,6 +9,8 @@ export const Input = styled.input`
   background: ${({ theme }) => theme.colors.primary};
   margin-top: 8px;
   margin-bottom: 16px;
+  color: #fff;
+  padding: 0 10px;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.mobile}) {
     width: 100%;
